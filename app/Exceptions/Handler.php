@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace LaraEdit\Exceptions;
 
 use Exception;
 use Illuminate\Database\Eloquent\ModelNotFoundException;

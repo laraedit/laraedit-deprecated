@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace LaraEdit\Events;
 
 abstract class Event
 {

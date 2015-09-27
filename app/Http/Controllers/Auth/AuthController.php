@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace LaraEdit\Http\Controllers\Auth;
 
-use App\User;
+use LaraEdit\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use LaraEdit\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 
