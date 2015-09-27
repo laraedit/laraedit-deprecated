@@ -9,6 +9,10 @@ php:
 
 install:
   - composer install
+  - touch .env
+  - echo "APP_ENV=testing" > .env
+  - echo "APP_DEBUG=true" >> .env
+  - echo "APP_KEY=APP_KEY=12345678901234567890123456789012" >> .env
   - php artisan key:generate
 
 script: vendor/bin/phpunit
