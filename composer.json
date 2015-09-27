@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "laraedit/laraedit",
+    "description": "The ultimate tool for web developers.",
+    "keywords": ["laraedit", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
