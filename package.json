@@ -9,6 +9,7 @@
     "font-awesome": "^4.4.0",
     "jquery": "^2.1.4",
     "devicons": "^1.8.0",
-    "ace-editor-builds": "^1.2.0"
+    "ace-editor-builds": "^1.2.0",
+    "devicon": "^2.0.0"
   }
 }
