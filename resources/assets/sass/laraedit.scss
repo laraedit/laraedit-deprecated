@@ -1,4 +1,5 @@
 $color1: #34495E;
+$color1-text: #FFFFFF;
 $color2: #E74C3C;
 $color2-text: #FFFFFF;
 
@@ -28,13 +29,26 @@ html, body {
 	line-height: 50px;
 }
 
-.navbar a, {
+.navbar-inverse .navbar-nav > li > a {
 	color: $color2-text;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+	color: $color2-text;
+	background: darken( $color2, 10% );
 }
 
 .navbar a.navbar-brand {
 	color: $color2-text;
 	font-size: 18pt;
+}
+
+.canvas {
+	position: fixed;
+	top: 50px;
+	left: 0;
+	bottom: 0;
+	right: 0;
 }
 
 .toolbar {
@@ -79,4 +93,29 @@ html, body {
 	right: 0;
 	bottom: 0;
 	padding: 0;
+}
+
+.btn-default {
+	background: $color2;
+	color: $color2-text;
+	border: 0;
+}
+
+.btn-default:hover {
+	background: darken( $color2, 10% );
+	color: $color2-text;
+}
+
+.panel {
+	background: rgba(0, 0, 0,0.3);
+	color: $color1-text;
+}
+
+.panel .panel-heading {
+	background: $color2;
+	color: $color2-text; 
+}
+
+.panel, .panel-heading, .panel-body, .panel-footer {
+	border: 0;
 }

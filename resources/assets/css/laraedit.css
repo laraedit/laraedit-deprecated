@@ -6013,12 +6013,23 @@ html, body {
 .navbar {
   line-height: 50px; }
 
-.navbar a {
+.navbar-inverse .navbar-nav > li > a {
   color: #FFFFFF; }
+
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #FFFFFF;
+  background: #d62c1a; }
 
 .navbar a.navbar-brand {
   color: #FFFFFF;
   font-size: 18pt; }
+
+.canvas {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  bottom: 0;
+  right: 0; }
 
 .toolbar {
   position: fixed;
@@ -6057,5 +6068,25 @@ html, body {
   right: 0;
   bottom: 0;
   padding: 0; }
+
+.btn-default {
+  background: #E74C3C;
+  color: #FFFFFF;
+  border: 0; }
+
+.btn-default:hover {
+  background: #d62c1a;
+  color: #FFFFFF; }
+
+.panel {
+  background: rgba(0, 0, 0, 0.3);
+  color: #FFFFFF; }
+
+.panel .panel-heading {
+  background: #E74C3C;
+  color: #FFFFFF; }
+
+.panel, .panel-heading, .panel-body, .panel-footer {
+  border: 0; }
 
 /*# sourceMappingURL=laraedit.css.map */
