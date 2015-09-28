@@ -35,3 +35,12 @@ All LaraEdit Documentation can be found [in the wiki](https://github.com/laraedi
 | [Devicon](https://github.com/konpa/devicon) | [![Build Status](https://img.shields.io/travis/konpa/devicon.svg)](https://travis-ci.org/konpa/devicon) | ![License](https://img.shields.io/github/license/konpa/devicon.svg) |
 | [Devicons](https://github.com/vorillaz/devicons) | [![Build Status](https://img.shields.io/travis/vorillaz/devicons.svg)](https://travis-ci.org/vorillaz/devicons) | ![License](https://img.shields.io/github/license/vorillaz/devicons.svg) |
 | [Ace Editor](https://github.com/ajaxorg/ace) | [![Build Status](https://img.shields.io/travis/ajaxorg/ace.svg)](https://travis-ci.org/ajaxorg/ace) | ![License](https://img.shields.io/github/license/ajaxorg/ace.svg) |
+
+## Creator
+### Derek Bourgeois
+- http://ibourgeois.com
+- http://github.com/ibourgeois
+- http://twitter.com/dbourgeois23
+
+## License
+LaraEdit is released under [the MIT license](https://github.com/laraedit/laraedit/blob/master/LICENSE). 
