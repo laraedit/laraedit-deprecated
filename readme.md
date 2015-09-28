@@ -43,4 +43,4 @@ All LaraEdit Documentation can be found [in the wiki](https://github.com/laraedi
 - http://twitter.com/dbourgeois23
 
 ## License
-LaraEdit is released under [the MIT license](https://github.com/laraedit/laraedit/blob/master/LICENSE). 
+LaraEdit is open-sourced software and is released under [the MIT license](https://github.com/laraedit/laraedit/blob/master/LICENSE). 
