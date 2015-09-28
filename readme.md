@@ -31,7 +31,7 @@ All LaraEdit Documentation can be found [in the wiki](https://github.com/laraedi
 | [Laravel](https://github.com/laravel/laravel) | [![Build Status](https://travis-ci.org/laravel/framework.svg?branch=master)](https://travis-ci.org/laravel/framework) |
 | [Bootstrap](https://github.com/twbs/bootstrap) | [![Build Status](https://travis-ci.org/twbs/bootstrap.svg?branch=master)](https://travis-ci.org/twbs/bootstrap) |
 | [Font Awesome](https://github.com/FortAwesome/Font-Awesome) | |
-| [jQuery](https://github.com/jquery/jquery) | |
+| [jQuery](https://github.com/jquery/jquery) | [![Build Status](https://travis-ci.org/jquery/jquery.svg?branch=master)](https://travis-ci.org/jquery/jquery) |
 | [Devicon](https://github.com/konpa/devicon) | |
 | [Devicons](https://github.com/vorillaz/devicons) | |
 | [Ace Editor](https://github.com/ajaxorg/ace) | [![Build Status](https://travis-ci.org/ajaxorg/ace.svg?branch=master)](https://travis-ci.org/ajaxorg/ace) |
