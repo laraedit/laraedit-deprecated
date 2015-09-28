@@ -3,7 +3,7 @@
 ## Installation
 - Run Composer Install 
 ```
-composer create-project laraedit/laraedit laraedit dev-master
+composer create-project laraedit/laraedit laraedit
 ```
 - Run Artisan Serve
 ```
