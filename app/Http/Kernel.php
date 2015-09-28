@@ -29,5 +29,6 @@ class Kernel extends HttpKernel
         'auth' => \LaraEdit\Http\Middleware\Authenticate::class,
         'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
         'guest' => \LaraEdit\Http\Middleware\RedirectIfAuthenticated::class,
+        'install' => \LaraEdit\Http\Middleware\InstallMiddleware::class
     ];
 }

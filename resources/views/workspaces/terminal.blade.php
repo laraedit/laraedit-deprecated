@@ -5,7 +5,7 @@
 				
 	</div>
 	<div class="col-md-12 terminal">
-				
+			
 	</div>
 </div>
 @stop

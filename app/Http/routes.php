@@ -1,5 +1,5 @@
 <?php
-Route::get('/', ['middleware' => 'auth', function() {
+Route::get('/', ['middleware' => ['install', 'auth'], function() {
     return view('workspaces.editor');
 }]);
 
