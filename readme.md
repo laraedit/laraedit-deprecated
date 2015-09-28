@@ -1,5 +1,10 @@
 # LaraEdit [![Build Status](https://travis-ci.org/laraedit/laraedit.svg)](https://travis-ci.org/laraedit/laraedit) [![Total Downloads](https://poser.pugx.org/laraedit/laraedit/downloads)](https://packagist.org/packages/laraedit/laraedit) [![Latest Stable Version](https://poser.pugx.org/laraedit/laraedit/v/stable)](https://packagist.org/packages/laraedit/laraedit) [![Latest Unstable Version](https://poser.pugx.org/laraedit/laraedit/v/unstable)](https://packagist.org/packages/laraedit/laraedit) [![License](https://poser.pugx.org/laraedit/laraedit/license)](https://packagist.org/packages/laraedit/laraedit)
 
+## About LaraEdit
+![LaraEdit Screenshot](https://raw.githubusercontent.com/laraedit/laraedit/master/screenshot.png)
+
+LaraEdit is currently undergoing intensive development. At this time, no features are implemented and everything is still a work in progress! But the screenshot above is a peek at what you'll get after following the installation steps below.
+
 ## Installation
 - Run Composer Install 
 ```
