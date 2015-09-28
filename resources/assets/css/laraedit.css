@@ -6020,4 +6020,34 @@ html, body {
   color: #FFFFFF;
   font-size: 18pt; }
 
+.toolbar {
+  position: fixed;
+  left: 0;
+  top: 50px;
+  width: 50px;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); }
+
+.toolbar ul {
+  margin: 0;
+  padding: 0; }
+
+.toolbar li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 50px;
+  text-align: center;
+  height: 50px;
+  width: 50px; }
+
+.toolbar a {
+  color: #FFFFFF;
+  font-size: 16pt;
+  display: block; }
+
+.toolbar a:hover {
+  background: rgba(0, 0, 0, 0.3);
+  text-decoration: none; }
+
 /*# sourceMappingURL=laraedit.css.map */
