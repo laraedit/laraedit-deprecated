@@ -26,7 +26,7 @@ All LaraEdit Documentation can be found [in the wiki](https://github.com/laraedi
 ## Contributors
 
 ## Built With
-- [Lavavel](https://github.com/laravel/laravel)
+- [Laravel](https://github.com/laravel/laravel)
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [jQuery](https://github.com/jquery/jquery)
