@@ -6004,4 +6004,20 @@ html, body {
   height: 100%;
   background: #34495E; }
 
+.navbar {
+  background: #E74C3C;
+  color: #FFFFFF;
+  border-radius: 0px;
+  border: 0px; }
+
+.navbar {
+  line-height: 50px; }
+
+.navbar a {
+  color: #FFFFFF; }
+
+.navbar a.navbar-brand {
+  color: #FFFFFF;
+  font-size: 18pt; }
+
 /*# sourceMappingURL=laraedit.css.map */

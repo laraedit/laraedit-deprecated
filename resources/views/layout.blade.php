@@ -15,9 +15,9 @@
     	<![endif]-->
   	</head>
   	<body>
-    
+
 		<div class="container-fluid laraedit">
-		    
+		    @include('partials.global.navbar')
 		</div>
 
     	<script src="/js/laraedit.js"></script>
