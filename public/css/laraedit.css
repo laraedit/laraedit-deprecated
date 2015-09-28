@@ -6050,6 +6050,14 @@ html, body {
   background: rgba(0, 0, 0, 0.3);
   text-decoration: none; }
 
+.workspace {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  right: 0;
+  bottom: 0;
+  padding: 0; }
+
 /*# sourceMappingURL=laraedit.css.map */
 /*!
  *  Font Awesome 4.4.0 by @davegandy - http://fontawesome.io - @fontawesome

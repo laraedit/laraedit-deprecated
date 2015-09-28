@@ -19,6 +19,7 @@
 		<div class="container-fluid laraedit">
 		    @include('partials.global.navbar')
             @include('partials.global.toolbar')
+            @include('partials.global.workspace')
 		</div>
 
     	<script src="/js/laraedit.js"></script>
