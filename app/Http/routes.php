@@ -1,8 +1,7 @@
 <?php
-
-Route::get('/', function () {
+Route::get('/', ['middleware' => 'auth', function() {
     return view('workspaces.editor');
-});
+}]);
 
 Route::get('/editor', function () {
     return view('workspaces.editor');
