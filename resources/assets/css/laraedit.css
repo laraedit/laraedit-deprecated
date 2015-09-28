@@ -5991,4 +5991,17 @@ button.close {
   .hidden-print {
     display: none !important; } }
 
-/*# sourceMappingURL=bootstrap.css.map */
+html, body {
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%; }
+
+.laraedit {
+  width: 100%;
+  height: 100%;
+  background: #34495E; }
+
+/*# sourceMappingURL=laraedit.css.map */

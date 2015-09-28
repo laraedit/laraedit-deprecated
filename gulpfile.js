@@ -12,11 +12,14 @@ var elixir = require('laravel-elixir');
  */
 
 elixir(function(mix) {
-    mix.sass('bootstrap.scss');
+    mix.sass([
+    	'bootstrap.scss',
+    	'laraedit.scss'
+    ], './resources/assets/css/laraedit.css');
     mix.copy('./node_modules/font-awesome/fonts', './public/fonts');
     mix.copy('./node_modules/devicons/fonts', './public/fonts');
     mix.styles([
-    	'./public/css/bootstrap.css', 
+    	'./resources/assets/css/laraedit.css',
     	'./node_modules/font-awesome/css/font-awesome.css',
     	'./node_modules/devicons/css/devicons.css'
     ], './public/css/laraedit.css');
