@@ -17,7 +17,7 @@
   	<body>
 
 		<div class="container-fluid laraedit">
-		    @include('partials.global.navbar')
+		        @yield('navbar')
             <div class="container-fluid canvas">
                 @yield('canvas')
             </div>
