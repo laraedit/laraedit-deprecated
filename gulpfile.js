@@ -11,13 +11,15 @@ elixir(function(mix) {
     mix.copy('./node_modules/devicon/icons', './public/icons');
     mix.styles([
     	'./resources/assets/css/laraedit.css',
+        './node_modules/bootstrap-select/dist/css/bootstrap-select.css',
     	'./node_modules/font-awesome/css/font-awesome.css',
     	'./node_modules/devicons/css/devicons.css',
-        './node_modules/devicon/devicon.min.css',
+        './node_modules/devicon/devicon.min.css'
     ], './public/css/laraedit.css');
     mix.scripts([
     	'./node_modules/jquery/dist/jquery.js',
-    	'./node_modules/bootstrap-sass/assets/javascripts/bootstrap.js'
+    	'./node_modules/bootstrap-sass/assets/javascripts/bootstrap.js',
+        './node_modules/bootstrap-select/dist/js/bootstrap-select.js'
     ], './public/js/laraedit.js');
     mix.copy('./node_modules/ace-editor-builds/src-min-noconflict', './public/vendor/ace');
 });

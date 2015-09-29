@@ -5,7 +5,7 @@
 
 	<div class="form-group">
         <label for="driver">Database Driver</label>
-		<select class="form-control" id="driver" name="driver">
+		<select class="selectpicker form-control" id="driver" name="driver">
 			<option value="sqlite">SQLite</option>
 			<option value="mysql">MySQL</option>
 			<option value="pgsql">PostgreSQL</option>
@@ -31,6 +31,12 @@
     <div class="form-group">
 		<label for="password">Database Password</label>
 		<input type="password" id="password" class="form-control" placeholder="Database Password" name="password" value="">
+    </div>
+
+    <div class="container-fluid">
+        <div class="form-group pull-right">
+            <input class="btn btn-info" type="submit" value="Next">
+        </div>
     </div>
 
     <br />

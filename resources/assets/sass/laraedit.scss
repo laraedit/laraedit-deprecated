@@ -95,13 +95,13 @@ html, body {
 	padding: 0;
 }
 
-.btn-default {
+.btn-info {
 	background: $color2;
 	color: $color2-text;
 	border: 0;
 }
 
-.btn-default:hover {
+.btn-info:hover {
 	background: darken( $color2, 10% );
 	color: $color2-text;
 }

@@ -6069,12 +6069,12 @@ html, body {
   bottom: 0;
   padding: 0; }
 
-.btn-default {
+.btn-info {
   background: #E74C3C;
   color: #FFFFFF;
   border: 0; }
 
-.btn-default:hover {
+.btn-info:hover {
   background: #d62c1a;
   color: #FFFFFF; }
 
