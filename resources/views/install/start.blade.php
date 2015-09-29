@@ -7,7 +7,7 @@
 				<h3 class="panel-title">Setup the Database</h3>
 			</div>
 			<div class="panel-body">
-				@include('forms.install.database')
+				@include('forms.install.admin')
 			</div>
 		</div>
 	</div>
