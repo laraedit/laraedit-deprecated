@@ -37,9 +37,10 @@
     },
     "scripts": {
         "post-install-cmd": [
+            "touch database/laraedit.sqlite",
+            "php artisan migrate",
             "php artisan clear-compiled",
-            "php artisan optimize",
-            "touch database/laraedit.sqlite"
+            "php artisan optimize"
         ],
         "pre-update-cmd": [
             "php artisan clear-compiled"
