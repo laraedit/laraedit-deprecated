@@ -3,3 +3,5 @@
 Homestead.yaml
 Homestead.json
 .env
+/database/laraedit.sqlite
+.git
