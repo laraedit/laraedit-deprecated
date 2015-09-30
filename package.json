@@ -11,6 +11,7 @@
     "devicons": "^1.8.0",
     "ace-editor-builds": "^1.2.0",
     "devicon": "^2.0.0",
-    "bootstrap-select": "^1.7.3"
+    "bootstrap-select": "^1.7.3",
+    "mousetrap": "^1.5.3"
   }
 }

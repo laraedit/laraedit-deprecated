@@ -19,7 +19,8 @@ elixir(function(mix) {
     mix.scripts([
     	'./node_modules/jquery/dist/jquery.js',
     	'./node_modules/bootstrap-sass/assets/javascripts/bootstrap.js',
-        './node_modules/bootstrap-select/dist/js/bootstrap-select.js'
+        './node_modules/bootstrap-select/dist/js/bootstrap-select.js',
+        './node_modules/mousetrap/mousetrap.js'
     ], './public/js/laraedit.js');
     mix.copy('./node_modules/ace-editor-builds/src-min-noconflict', './public/vendor/ace');
 });
